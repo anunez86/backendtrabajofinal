@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/sede")
-@CrossOrigin(origins = "http://localhost:4200/")
+@CrossOrigin(origins = "https://frontendtrabajofinal.azurewebsites.net/")
 public class sedeKatherineController {
 
 
